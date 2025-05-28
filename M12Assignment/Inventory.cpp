@@ -2,6 +2,10 @@
 //  M12Assignment
 //  Created by Aqila Nasiry on 5/8/25.
 
+
+/*
+ Design an Inventory class that can hold the information and calculate data for items in a retail store's inventory. 
+ */
 #include "Inventory.h"
 
 // Default constructor
