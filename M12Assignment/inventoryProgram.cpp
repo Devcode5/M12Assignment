@@ -2,6 +2,13 @@
 //  M12Assignment
 //  Created by Aqila Nasiry on 5/8/25.
 
+/*
+ The program should ask the user how many items it is going to store in the inventory.
+ Make sure that the user enters positive numbers for the number. Your program should then
+ dynamically allocate an array of  that many objects. Each object’s members should be
+ assigned with user input. Finally, display each object's information. Do not accept negative numbers for any input. 
+ */
+
 #include <iostream>
 #include <iomanip>
 #include "Inventory.h"
